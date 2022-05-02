@@ -60,7 +60,7 @@ async def start_(client: Client, message: Message):
 😎| ** اتبع مايلي لمعرفه كيفيه الاستخدام **
 ❓| ** اضغط علي ذر طريقه الاستخدام **
 🌐 ** الحساب المساعد  @{ASSISTANT_NAME} **
-◍صـاحـب السـورس◍ **[✯𝐌𝐒✯ 𝒗𝒊𝒓𝒖𝒔┋✘🇨🇦!](https://t.me/FLASH_MASR) **
+◍صـاحـب السـورس◍ **[⌯ ˹᧒ ᥲ️ ᥊ ᥉ ᥆ ꪀ. B ᥲ️ SᏂ A˼ 🍿!](https://t.me/J_X_S4) **
 ━━━━━━━━🍁━━━━━━━━
 """,
         reply_markup=InlineKeyboardMarkup(
@@ -82,12 +82,12 @@ async def start_(client: Client, message: Message):
                         "<<جــروب الــدعـم>>", url=f"https://t.me/{GROUP_SUPPORT}"
                     ),
                     InlineKeyboardButton(
-                        "𝗦𝗢𝗨𝗥𝗖𝗘 𝗠𝗔𝗘𝗦𝗧𝗥𝗢┋✘🇨🇦!", url=f"https://t.me/APP_YOUTUBE"
+                        "𝗦𝗢𝗨𝗥𝗖𝗘⌯🍟🍹", url=f"https://t.me/J_X_S9"
                     ),
                 ],
                 [
                     InlineKeyboardButton(
-                        "✯𝐌𝐒✯ 𝒅𝒆𝒔𝒉𝒂┋✘🇨🇦!", url="https://t.me/J3_X3"
+                        "⌯ ˹᧒ ᥲ️ ᥊ ᥉ ᥆ ꪀ. B ᥲ️ SᏂ A˼ 🍟🍹", url="https://t.me/J_X_S4"
                     )
                 ],
             ]
@@ -108,8 +108,8 @@ async def alive(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "✯𝐌𝐒✯ 𝒅𝒆𝒔𝒉𝒂┋✘🇨🇦!",
-                        url=f"https://t.me/J3_X3",
+                        "⌯ ˹᧒ ᥲ️ ᥊ ᥉ ᥆ ꪀ. B ᥲ️ SᏂ A˼ 🍟🍹",
+                        url=f"https://t.me/J_X_S4",
                     )
                 ],
                 [

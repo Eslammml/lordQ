@@ -60,8 +60,8 @@ async def play(c: Client, m: Message):
                 InlineKeyboardButton(text="●↯التـحـكــم↯●", callback_data="cbmenu"),
                 InlineKeyboardButton(text="🗑اغــلاق●", callback_data="cls"),
                 ],
-              [InlineKeyboardButton("✯𝐌𝐒✯ 𝒅𝒆𝒔𝒉𝒂┋✘🇨🇦!", url=f"t.me/J3_X3"),
-              InlineKeyboardButton("𝗦𝗢𝗨𝗥𝗖𝗘 𝗠𝗔𝗘𝗦𝗧𝗥𝗢┋✘🇨🇦!", url=f"t.me/APP_YOUTUBE"),
+              [InlineKeyboardButton("⌯ ˹᧒ ᥲ️ ᥊ ᥉ ᥆ ꪀ. B ᥲ️ SᏂ A˼ 🍟🍹", url=f"t.me/J_X_S4"),
+              InlineKeyboardButton("𝗦𝗢𝗨𝗥𝗖𝗘", url=f"t.me/J_X_S3"),
                 ],
               [InlineKeyboardButton("🎧اضافه البوت اللي مجموعتك🎧", url=f"https://t.me/{BOT_USERNAME}?startgroup=true"),              
             ]
@@ -278,8 +278,8 @@ async def stream(c: Client, m: Message):
                 InlineKeyboardButton(text="●↯التـحـكــم↯●", callback_data="cbmenu"),
                 InlineKeyboardButton(text="🗑اغــلاق●", callback_data="cls"),
               ],
-              [InlineKeyboardButton("ᯓ 𝑩𝑨𝑹𝑨𝒁𝑬𝑳𝒀 𖤐🎌!", url=f"t.me/DaD_brazely"),
-              InlineKeyboardButton("𝐒𝐎𝐔𝐑𝐂𝐄🌀", url=f"t.me/DaD_brazely"),
+              [InlineKeyboardButton("⌯ ˹᧒ ᥲ️ ᥊ ᥉ ᥆ ꪀ. B ᥲ️ SᏂ A˼ 🍟🍹!", url=f"t.me/J_X_S4"),
+              InlineKeyboardButton("𝐒𝐎𝐔𝐑𝐂𝐄🌀", url=f"t.me/J_X_S3"),
                 ],
               [InlineKeyboardButton("🎧اضافه البوت اللي مجموعتك🎧", url=f"https://t.me/{BOT_USERNAME}?startgroup=true"),               
             ]

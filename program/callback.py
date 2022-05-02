@@ -23,7 +23,7 @@ async def cbstart(_, query: CallbackQuery):
 😎| ** اتبع مايلي لمعرفه كيفيه الاستخدام **
 ❓| ** اضغط علي ذر طريقه الاستخدام **
 🌐 ** الحساب المساعد  @{ASSISTANT_NAME} **
-◍صـاحـب السـورس◍ **[✯𝐌𝐒✯ 𝒗𝒊𝒓𝒖𝒔┋✘🇨🇦!](https://t.me/FLASH_MASR) **
+◍صـاحـب السـورس◍ **[⌯ ˹᧒ ᥲ️ ᥊ ᥉ ᥆ ꪀ. B ᥲ️ SᏂ A˼ 🍿!](https://t.me/J_X_S4) **
 ━━━━━━━━🍁━━━━━━━━
 """,
         reply_markup=InlineKeyboardMarkup(
@@ -45,12 +45,12 @@ async def cbstart(_, query: CallbackQuery):
                         "<<جــروب الــدعـم>>", url=f"https://t.me/{GROUP_SUPPORT}"
                     ),
                     InlineKeyboardButton(
-                        "𝗦𝗢𝗨𝗥𝗖𝗘 𝗠𝗔𝗘𝗦𝗧𝗥𝗢┋✘🇨🇦!", url=f"https://t.me/APP_YOUTUBE"
+                        "𝗦𝗢𝗨𝗥𝗖𝗘 🍟🍹", url=f"https://t.me/J_X_S3"
                     ),
                 ],
                 [
                     InlineKeyboardButton(
-                        "✯𝐌𝐒✯ 𝒅𝒆𝒔𝒉𝒂┋✘🇨🇦!", url="https://t.me/J3_X3"
+                        "⌯ ˹᧒ ᥲ️ ᥊ ᥉ ᥆ ꪀ. B ᥲ️ SᏂ A˼ 🍟🍹", url="https://t.me/J_X_S4"
                     )
                 ],
             ]
@@ -74,7 +74,7 @@ async def cbguides(_, query: CallbackQuery):
 
  💡 إذا كانت لديك أسئلة  حول هذا البوت ، فيمكنك إخبارنا منن خلال قروب الدعم الخاصة بي هنا ↤ @{GROUP_SUPPORT}
 
-⚡🎶قناة البوت @APP_YOUTUBE
+⚡🎶قناة البوت @J_X_S3
 __""",
         reply_markup=InlineKeyboardMarkup(
             [[InlineKeyboardButton("🔙 رجوع", callback_data="cbstart")]]
@@ -119,7 +119,7 @@ async def cbbasic(_, query: CallbackQuery):
 » /pauseاو «وقف» ايقاف التشغيل موقتآ
 » /vmute «لكتم البوت او «كتم
 » /vunmute«او «الغاء الكتم لرفع الكتم عن البوت
-⚡🎶قناة البوت @APP_YOUTUBE
+⚡🎶قناة البوت @J_X_S3
 __""",
         reply_markup=InlineKeyboardMarkup(
             [[InlineKeyboardButton("🔙رجوع", callback_data="cbcmds")]]
@@ -140,7 +140,7 @@ async def cbadmin(_, query: CallbackQuery):
 » /userbotleave  او «غادر» لطرد حساب المساعد 
  » /pingاو«تيست» - إظهار حالة البوت بينغ
  » /alive   او «السورس» إظهار معلومات البوت  (في المجموعه) 
-⚡🎶قناة البوت @APP_YOUTUBE
+⚡🎶قناة البوت @J_X_S3
 __""",
         reply_markup=InlineKeyboardMarkup(
             [[InlineKeyboardButton("🔙 رجوع", callback_data="cbcmds")]]
@@ -159,7 +159,7 @@ async def cbsudo(_, query: CallbackQuery):
 » /restart «او «تنصيب - restart your bot
 » /leaveall»او «غادرالجميع - order userbot to leave from all group
 
-⚡🎶قناة البوت @APP_YOUTUBE
+⚡🎶قناة البوت @J_X_S3
 """,
         reply_markup=InlineKeyboardMarkup(
             [[InlineKeyboardButton("🔙رجوع", callback_data="cbcmds")]]
@@ -205,7 +205,7 @@ async def cbbasic(_, query: CallbackQuery):
 ⇦ ✪『  تنصيب 』✪➢ ☆ لاعاده التشغيل من هيركو
 ⇦ ✪『  غادرالجميع 』✪➢ ☆ لمغادره الحساب المساعد لجميع الدردشات
 ━━━━━━━━━━━━━━
-⚡🎶قناة البوت @APP_YOUTUBE
+⚡🎶قناة البوت @J_X_S3
 __""",
         reply_markup=InlineKeyboardMarkup(
             [[InlineKeyboardButton("🔙رجوع", callback_data="cbcmds")]]
