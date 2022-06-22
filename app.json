@@ -1,16 +1,16 @@
 {
-    "name": "⌯ ˹᧒ ᥲ️ ᥊ ᥉ ᥆ ꪀ. B ᥲ️ SᏂ A˼ 🍟🍹",
+    "name": "⌯ 𝐒𝐨𝐮𝐫𝐜𝐞 𝐋𝐨𝐫𝐝 ⌯",
     "description": "Telegram bot for Streaming Video & Music trought the Telegram Group Video Chat, powered by pytgcalls and pyrogram",
-    "logo": "https://telegra.ph/file/4e394a5da1a3a479b3866.jpg",
+    "logo": "https://telegra.ph/file/ba270d47cacbda5f17b8c.jpg",
     "keywords": [
         "pytgcalls",
         "telegram bot",
         "video stream",
         "pyrogram"
     ],
-    "website": "https://t.me/J_X_S3",
+    "website": "https://t.me/SOURCE_LORD",
     "repository": "https://github.com/",
-    "success_url": "https://t.me/J_X_S4",
+    "success_url": "https://t.me/SOURCE_LORD1",
     "env": {
         "API_ID": {
             "description": "قم بوضع الايبي ايدي هنا",
@@ -47,22 +47,22 @@
         "GROUP_SUPPORT": {
             "description": "ضع هنا يوزر جروبك بدون علامة @",
             "required": true,
-            "value": "J_X_S9"
+            "value": "SOURCELORD"
         },
         "UPDATES_CHANNEL": {
             "description": "ضع هنا يوزر قناتك بدون علامة @",
             "required": true,
-            "value": "J_X_S3"
+            "value": "SOURCE_LORD"
         },
         "OWNER_NAME": {
             "description": "ضع هنا يوزر المطور بدون علامة @",
             "required": true,
-            "value": "J_X_S4"
+            "value": "SOURCE_LORD1"
         },
         "ALIVE_NAME": {
             "description": "اتركها كما هي",
             "required": true,
-            "value": "⌯ ˹᧒ ᥲ️ ᥊ ᥉ ᥆ ꪀ. B ᥲ️ SᏂ A˼ 🍟🍹"
+            "value": "⌯ 𝐒𝐨𝐮𝐫𝐜𝐞 𝐋𝐨𝐫𝐝 ⌯"
         }
     },
     "addons": [],
